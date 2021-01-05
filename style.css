@@ -38,7 +38,7 @@ h2{
 .anchor-button-green{
     text-decoration: none;
     background-image: linear-gradient(#21C6DE ,#3D90FB);
-    padding: 15px 45px ;
+    padding: 15px 25px ;
     color:white;
     border-radius: 5px;
 }
@@ -127,6 +127,9 @@ footer p{
 }
 footer{
     padding-bottom: 6%;
+}
+.download{
+    margin-left: 5px;
 }
 /*Navigation css*/
 
