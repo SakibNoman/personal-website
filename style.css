@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 60px;
+    color: #363857;
+}
+.violet-color{
+    color:#5242CE;
+}
+.half-width{
+    width: 37%;
+    float: left;
+    margin-left: 10%;
+}
+.half-width img{
+    width: 100%;
+}
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(#311adf ,#5242CE);
+    padding: 15px 45px ;
+    color:white;
+    border-radius: 5px;
+}
