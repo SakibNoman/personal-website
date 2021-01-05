@@ -57,7 +57,7 @@ section{
     width: 26%;
     float: left;
     margin-left: 3%;
-    box-shadow: 0px 0px 13px rgb(192, 190, 190);
+    box-shadow: 0px 0px 25px rgb(224, 221, 221);
 }
 #work-area-title{
     text-align: center;
@@ -86,7 +86,7 @@ h3{
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
-    margin: 0px 225px ;
+    margin: -50px 225px ;
 }
 .work-inquiry{
     padding-top:180px;
@@ -119,10 +119,10 @@ footer p{
     text-align: center;
 }
 .social-div{
-    padding-left:41%;
+    padding-left:42%;
 }
 .social-div img{
-    width: 6%;
+    width: 5%;
     padding-left:3%;
 }
 footer{
