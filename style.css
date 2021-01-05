@@ -128,3 +128,22 @@ footer p{
 footer{
     padding-bottom: 6%;
 }
+/*Navigation css*/
+
+.navigation {
+    overflow: hidden;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+  }
+  
+
+  .navigation a {
+    float: right;
+    color: rgb(36, 35, 35);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 700;
+  }
