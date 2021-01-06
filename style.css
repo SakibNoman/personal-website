@@ -163,3 +163,15 @@ footer{
   #services{
       padding-bottom: 15%;
   }
+  #language-skill{
+      width: 40%;
+      margin-left: 7%;
+      padding-bottom: 3%;
+      border-left: 3px solid #5452D7;
+  }
+  #language-skill img{
+      width: 10%;
+  }
+  #language-skill h3{
+      text-align: center;
+  }
